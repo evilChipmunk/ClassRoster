@@ -157,7 +157,6 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ClassRoster.cpp" />
     <ClCompile Include="NetworkStudent.cpp" />
     <ClCompile Include="Roster.cpp" />
     <ClCompile Include="SecurityStudent.cpp" />

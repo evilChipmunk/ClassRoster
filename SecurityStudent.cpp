@@ -17,14 +17,4 @@ degree SecurityStudent::get_DegreeProgram()
 void SecurityStudent::print()
 {
 	printBaseData();
-}
-// 
-//void Student::print()
-//{
-//	printBaseData();
-//}
-//
-//degree Student::get_DegreeProgram()
-//{
-//	return SECURITY;
-//}
+} 

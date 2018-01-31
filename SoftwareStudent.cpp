@@ -18,14 +18,4 @@ degree SoftwareStudent::get_DegreeProgram()
 void SoftwareStudent::print()
 {
 	printBaseData();
-}
-
-//void Student::print()
-//{
-//	printBaseData();
-//}
-//
-//degree Student::get_DegreeProgram()
-//{
-//	return SOFTWARE;
-//}
+} 

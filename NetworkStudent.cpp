@@ -18,16 +18,4 @@ degree NetworkStudent::get_DegreeProgram()
 void NetworkStudent::print()
 {
 	printBaseData();
-}
-// 
-//void Student::print()
-//{
-//	printBaseData(); 
-//}
-//
-//degree Student::get_DegreeProgram()
-//{
-//return NETWORKING;
-//}
-
-
+} 
